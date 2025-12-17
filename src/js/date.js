@@ -1,0 +1,5 @@
+export const dateActually=new Date()
+export const datePluSeven=new Date()
+export const dateMinuSeven=new Date()
+datePluSeven.setDate(dateActually.getDate() + 7)
+dateMinuSeven.setDate(dateActually.getDate() - 7)

@@ -1,0 +1,1 @@
+export const LIGHT="TOOGLE_LIGHT"
